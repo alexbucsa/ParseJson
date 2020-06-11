@@ -1,0 +1,21 @@
+[{
+	"id": 1,
+	"nume": "produs1",
+	"descriere": "descriere1",
+	"imagine": "imagine1",
+	"link": "link1",
+	"pret": {
+		"pret1": "111",
+		"pret2": "222"
+	}
+}, {
+	"id": 2,
+	"nume": "produs2",
+	"descriere": "descriere2",
+	"imagine": "imagine2",
+	"link": "link2",
+	"pret": {
+		"pret1": "333",
+		"pret2": "444"
+	}
+}]
